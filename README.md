@@ -1,2 +1,2 @@
-# DQN
-An implementation of DQN and its basic variants
+# DQN with pytorch
+A pytorch implementation of DQN and its basic variants.
